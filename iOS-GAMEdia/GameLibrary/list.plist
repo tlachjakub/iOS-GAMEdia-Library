@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>game1</string>
+		<key>name</key>
+		<string>Super Mario World</string>
+		<key>information</key>
+		<string>BioShock Infinite is a first-person shooter video game developed by Irrational Games and published by 2K Games. It was released worldwide for the Microsoft Windows, PlayStation 3, and Xbox 360 platforms on March 26, 2013; an OS X port by Aspyr was later released on August 29, 2013 and a Linux port was released on March 17, 2015. Infinite is the third installment in the BioShock series, and though it is not immediately part of the storyline of previous BioShock games, it features similar gameplay concepts and themes. Irrational Games and creative director Ken Levine based the game&apos;s setting on historical events at the turn of the 20th century, such as the 1893 World&apos;s Columbian Exposition, and based the story on the concept of American exceptionalism, while also incorporating influences from more recent events at the time such as the 2011 Occupy movement.</string>
+		<key>score</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game2</string>
+		<key>name</key>
+		<string>Bioshock Infinite</string>
+		<key>information</key>
+		<string>BioShock Infinite is a first-person shooter video game developed by Irrational Games and published by 2K Games. It was released worldwide for the Microsoft Windows, PlayStation 3, and Xbox 360 platforms on March 26, 2013; an OS X port by Aspyr was later released on August 29, 2013 and a Linux port was released on March 17, 2015. Infinite is the third installment in the BioShock series, and though it is not immediately part of the storyline of previous BioShock games, it features similar gameplay concepts and themes. Irrational Games and creative director Ken Levine based the game&apos;s setting on historical events at the turn of the 20th century, such as the 1893 World&apos;s Columbian Exposition, and based the story on the concept of American exceptionalism, while also incorporating influences from more recent events at the time such as the 2011 Occupy movement.</string>
+		<key>score</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game3</string>
+		<key>name</key>
+		<string>South Park</string>
+		<key>information</key>
+		<string>South Park is an American adult animated sitcom created by Trey Parker and Matt Stone and developed by Brian Graden for the Comedy Central television network. The show revolves around four boys—Stan Marsh, Kyle Broflovski, Eric Cartman, and Kenny McCormick—and their bizarre adventures in and around the titular Colorado town. Much like The Simpsons, South Park uses a very large ensemble cast of recurring characters and became infamous for its profanity and dark, surreal humor that satirizes a wide range of topics towards a mature audience. Parker and Stone developed the show from The Spirit of Christmas, two consecutive animated shorts created in 1992 and 1995. The latter became one of the first Internet viral videos, ultimately leading to South Park&apos;s production. It debuted in August 1997 with great success, consistently earning the highest ratings of any basic cable program. Subsequent ratings have varied but it remains one of Comedy Central&apos;s highest rated shows, and is slated to air in new episodes through 2019.</string>
+		<key>score</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game4</string>
+		<key>name</key>
+		<string>Ghostbusters</string>
+		<key>information</key>
+		<string>Ghostbusters makes its long-awaited return with Director Paul Feig&apos;s unique and hilarious take on the classic, supernatural comedy, led by the freshest minds in comedy today, Melissa McCarthy, Kristen Wiig, Kate McKinnon, Leslie Jones, and Chris Hemsworth. Together they team-up to save Manhattan from a sudden invasion of spirits, spooks and slime that engulfs the city. Robert Abele of TheWrap says, &quot;This new A-team of ghostbusters are fresh and funny.&quot;</string>
+		<key>score</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game5</string>
+		<key>name</key>
+		<string>Minecraft</string>
+		<key>information</key>
+		<string>Minecraft: Story Mode is an episodic point-and-click graphic adventure video game developed and published by Telltale Games, based on the sandbox video game Minecraft in association with Mojang. The first five episodes of the game were released between October 2015 through March 2016, and an additional three episodes were released as downloadable content in mid-2016. The game was released for Microsoft Windows, macOS, PlayStation 3, PlayStation 4, Wii U, Nintendo Switch, Xbox 360, Xbox One, Android, iOS, and Apple TV. The game was developed in association with Mojang, the original developer of Minecraft. A retail version was released in December 2016.</string>
+		<key>score</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game6</string>
+		<key>name</key>
+		<string>Crash Bandicoot N-Sane Trilogy</string>
+		<key>information</key>
+		<string>Crash Bandicoot N. Sane Trilogy is a platform video game compilation developed by Vicarious Visions and published by Activision for PlayStation 4. It is a collection of remasters of the first three titles in the Crash Bandicoot series: Crash Bandicoot, Cortex Strikes Back, and Warped, which were originally developed by Naughty Dog for the PlayStation in the 1990s. The game was released on June 30, 2017, receiving generally favorable reviews from critics, who praised the game&apos;s faithfulness to the original trilogy.</string>
+		<key>score</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game7</string>
+		<key>name</key>
+		<string>Uncharted 4</string>
+		<key>information</key>
+		<string>Uncharted 4: A Thief&apos;s End is an action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment for PlayStation 4. It was released worldwide on May 10, 2016. Following Uncharted 3: Drake&apos;s Deception, it is the fourth and final installment in the Uncharted series featuring protagonist Nathan Drake (portrayed by Nolan North). Drake has retired from fortune hunting with his wife Elena several years after the events of Drake&apos;s Deception. He reunites with his estranged older brother Sam and longtime partner Sully to search for clues to the location of Captain Henry Avery&apos;s long-lost treasure to save his brother.</string>
+		<key>score</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game8</string>
+		<key>name</key>
+		<string>Thief</string>
+		<key>information</key>
+		<string>Thief is a stealth video game developed by Eidos Montréal, published by Square Enix, and released in February 2014 for the PlayStation 3, PlayStation 4, Xbox 360, Xbox One and Microsoft Windows video gaming platforms. It is a revival of the cult classic Thief video game series of which it is the fourth installment. Initially announced in 2009 as Thief 4, it was later announced in 2013 that the game is a reboot for the series.</string>
+		<key>score</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game9</string>
+		<key>name</key>
+		<string>Beyond Two Souls</string>
+		<key>information</key>
+		<string>Beyond: Two Souls is an interactive drama action-adventure video game for the PlayStation 3 and Playstation 4 home video game consoles, created by French game developer Quantic Dream and published by Sony Computer Entertainment. It was released in October 2013. The game features Jodie Holmes, one of two player characters. The other is an incorporeal entity named Aiden: a separate soul linked to Jodie since birth. Jodie, who is portrayed by actress Ellen Page, possesses supernatural powers through her psychic link to Aiden, growing from adolescence to adulthood while learning to control Aiden and the powers they share. Willem Dafoe co-stars as Nathan Dawkins, a researcher in the Department of Paranormal Activity and Jodie&apos;s surrogate-father-figure. The actors in the game worked during the year-long project in Quantic Dream&apos;s Paris studio to perform on-set voice acting and motion capture acting.</string>
+		<key>score</key>
+		<integer>5</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>game10</string>
+		<key>name</key>
+		<string>Horizon Zero Dawn</string>
+		<key>information</key>
+		<string>Horizon Zero Dawn is an action role-playing video game developed by Guerrilla Games and published by Sony Interactive Entertainment for PlayStation 4 and released in early 2017. The plot revolves around Aloy, a hunter and archer living in a world overrun by robots. Having been an outcast her whole life, she sets out to discover the dangers that kept her sheltered. The character uses ranged weapons and a spear and stealth tactics to combat the mechanised creatures, whose remains can be looted for resources. A skill tree provides the player with new abilities and passive bonuses. The game features an open world environment for Aloy to explore, divided into tribes that hold side quests to undertake, while the main story guides her across the entire map.</string>
+		<key>score</key>
+		<integer>5</integer>
+	</dict>
+</array>
+</plist>
